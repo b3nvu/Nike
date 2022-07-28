@@ -54,7 +54,7 @@ a .cart {
 }
 .content {
     position: relative;
-    margin-right: 900px;
+    margin-right: 600px;
 }
 h1 {
     text-transform: uppercase;
@@ -134,11 +134,11 @@ p {
 
  .shoes {
     position: absolute;
-    width: 40%;
+    width: 45%;
     height: 50%;
     bottom: 0;
     margin-bottom: 170px;
-    margin-left: 700px;
+    margin-left: 800px;
     
     
 }
