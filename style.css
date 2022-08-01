@@ -54,7 +54,7 @@ a .cart {
 }
 .content {
     position: relative;
-    margin-right: 600px;
+    margin-right: 800px;
 }
 h1 {
     text-transform: uppercase;
@@ -137,6 +137,7 @@ p {
     width: 45%;
     height: 50%;
     bottom: 0;
+    margin-top: 150px;
     margin-bottom: 170px;
     margin-left: 800px;
     
